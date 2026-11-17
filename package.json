@@ -1,0 +1,23 @@
+{
+  "name": "enterprise-playwright-framework-by-charan",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SaicharanPotnuru/enterprise-playwright-framework-by-charan.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SaicharanPotnuru/enterprise-playwright-framework-by-charan/issues"
+  },
+  "homepage": "https://github.com/SaicharanPotnuru/enterprise-playwright-framework-by-charan#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.65.1",
+    "@types/node": "^26.6.6",
+    "prettier": "^3.10.1"
+  }
+}
